@@ -1,0 +1,12 @@
+yaş1,yaş2,yaş3
+yıl
+yaşOrt
+arkSay
+çocukSay
+yaşFarkı=28+30+32
+yaşToplam=arkSay.yaşOrt
+yaşToplamYıl=yaşToplam+arkSay.yıl
+çocukYaşToplam=yaşToplam-yaşFarkı
+çocukYaşToplamYıl=çocukYaşToplam+çocuksay.yıl
+(yaşToplamYıl.çocukYaşToplamYıl)/arkSay+çocukSay=yaşOrt
+print(yıl)

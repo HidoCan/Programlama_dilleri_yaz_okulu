@@ -1,0 +1,13 @@
+x=input("Örnek sayıyı giriniz:")
+y=input("Örnek köşegen sayıyı giriniz:")
+ilkkose=input("iki basamaklı tamsayı için köşegen sayısı giriniz:")
+ikincikose=input("iki basamaklı tamsayı için ikinci köşegen sayısı giriniz:")
+x2=x-3
+deger=x2/y
+coz1=AB/ilkkose
+deger=coz1
+coz2=AB%10
+coz3=AB-coz2
+coz4=coz3/10
+sonuc=coz4+coz2
+print("Ab basamkları toplamı = ",sonuc)

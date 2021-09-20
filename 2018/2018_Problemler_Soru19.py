@@ -1,0 +1,13 @@
+cocukSay=3
+arkSay=3
+yasOrt=20
+topKisi=cocukSay+arkSay
+cocukYasFark1=28
+cocukYasFark2=30
+cocukYasFark3=32
+arkYasToplam=arkSay*yasOrt
+tanCocukYasToplam=arkYasToplam-cocukYasFark1-cocukYasFark2-cocukYasFark3
+topOrt=yasOrt*topKisi
+topYıl=topOrt-abs(tanCocukYasToplam)
+yıl=topYıl/topKisi
+print(yıl)

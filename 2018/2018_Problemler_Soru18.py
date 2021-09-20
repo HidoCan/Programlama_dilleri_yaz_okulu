@@ -1,0 +1,9 @@
+evDeger=450000
+evAliş=3000
+evSatiş=3200
+arsaAliş=20000
+arsaSatiş=25000
+satiş=evDeger*(evSatiş/evAliş)
+kar=arsaSatiş-arsaAliş
+satiş=satiş*(kar/arsaAliş)
+print(satiş)

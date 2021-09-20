@@ -1,0 +1,13 @@
+s1=pow(4,x)
+s2=pow(4,y)
+top=s1+s2
+fark=s1-s2
+top=18
+fark=6
+sonuc=top+fark
+s3=pow(2,x)
+s3-3
+s4=pow(2,y)
+s4-1
+sonuc2=s3+s4
+print(sonuc)
