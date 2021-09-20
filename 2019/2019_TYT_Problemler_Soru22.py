@@ -1,0 +1,19 @@
+a = input("Satılan a yatak sayısı")
+a1 = input("a türü iade oranı")
+b1 = input("b türü iade oranı")
+c1 = input("c türü iade oranı")
+q = input("a ve b yatak sayısının c yatak sayısına oranı")
+b2 = input("İade edilen b türü sayısı")
+a = int(a)
+a1 = int(a1)
+b1 = int(b1)
+c1 = int(c1)
+q = int(q)
+b2 = int(b2)
+b= b2*b1
+e = b+a
+c=e/q
+x=a*a1
+y=c*c1
+s = x+y
+print (y)
